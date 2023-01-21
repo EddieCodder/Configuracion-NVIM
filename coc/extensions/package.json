@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "coc-json": ">=1.8.0",
+    "coc-tsserver": ">=2.1.0",
+    "coc-html": ">=1.8.0",
+    "coc-phpls": ">=2.2.2",
+    "coc-xml": ">=1.14.1",
+    "coc-sql": ">=0.11.0",
+    "coc-markdownlint": ">=1.27.0",
+    "coc-html-css-support": ">=0.4.0",
+    "coc-htmldjango": ">=0.11.34",
+    "coc-css": ">=2.0.0",
+    "coc-cssmodules": ">=1.1.1",
+    "coc-angular": ">=13.3.6"
+  }
+}
