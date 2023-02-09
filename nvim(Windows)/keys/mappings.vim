@@ -1,6 +1,7 @@
 nmap <Leader>s <Plug>(easymotion-s2)
 nmap <C-s> :w<CR>
 nmap <C-q> :q<CR>
+nmap <C-a> :noh<CR>
 
 " GoTo code navigation
 nmap <silent> gd <Plug>(coc-definition)
