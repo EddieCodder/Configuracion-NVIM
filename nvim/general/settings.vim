@@ -24,6 +24,7 @@ set showcmd
 set ruler
 set showmatch
 set relativenumber
+set wrap linebreak "Muestra una linea larga en varios parrafos"
 
 let mapleader=" "
 
