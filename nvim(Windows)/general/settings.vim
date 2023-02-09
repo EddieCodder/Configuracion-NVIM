@@ -5,7 +5,6 @@ set hidden
 set relativenumber
 set title
 set mouse=a
-set nowrap
 set cursorline
 set tabstop=2
 set shiftwidth=2
