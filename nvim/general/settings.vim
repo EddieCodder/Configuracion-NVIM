@@ -5,7 +5,6 @@ set hidden
 set relativenumber
 set title
 set mouse=a
-set nowrap
 set cursorline
 set tabstop=2
 set shiftwidth=2
@@ -24,7 +23,6 @@ set showcmd
 set ruler
 set showmatch
 set relativenumber
-set wrap linebreak "Muestra una linea larga en varios parrafos"
 
 let mapleader=" "
 
