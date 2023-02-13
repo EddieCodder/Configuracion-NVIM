@@ -3,6 +3,7 @@ set t_Co=256
 set encoding=utf-8
 set hidden
 set relativenumber
+set number
 set title
 set mouse=a
 set cursorline
