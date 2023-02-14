@@ -2,7 +2,7 @@ synta enable
 set t_Co=256
 set encoding=utf-8
 set hidden
-set relativenumber
+"set relativenumber
 set number
 set title
 set mouse=a
@@ -23,7 +23,6 @@ set numberwidth=1
 set showcmd
 set ruler
 set showmatch
-set relativenumber
 
 let mapleader=" "
 
